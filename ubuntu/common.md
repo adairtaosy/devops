@@ -11,7 +11,7 @@ zsh command line looks more obvious
 
 `` sudo apt-get install zsh  `` 
 
-`` sudo chsh -s `which zsh` ``
+`` sudo chsh -s `which zsh` username ``
 
 reboot or relogin 
 
