@@ -6,10 +6,10 @@
 ## Install oh-my-zsh
 zsh command line looks more obvious
 
+`` sudo apt-get install -qy git zsh  `` 
 
 ``sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"``  
 
-`` sudo apt-get install zsh  `` 
 
 `` sudo chsh -s `which zsh` username ``
 
