@@ -4,17 +4,13 @@
 
 ---
 ## Install oh-my-zsh
-zsh command line looks more obvious
-
 `` sudo apt-get install -qy git zsh  `` 
 
 ``sh -c "$(curl -fsSL https://raw.github.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"``  
 
-
 `` sudo chsh -s `which zsh` username ``
 
 reboot or relogin 
-
 ---
 ## Update Java
 
@@ -31,7 +27,6 @@ reboot or relogin
 `` sudo update-alternatives install /usr/bin/java java /usr/lib/java/jdk1.8.0_71/bin/java 1 ``
 
 `` sudo update-alternatives --config java ``
-
 select java want update
 
 
