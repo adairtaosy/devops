@@ -24,7 +24,7 @@ reboot or relogin
 
 `` echo PATH=$PATH:$JAVA_HOME/bin >> ~/.zshrc ``
 
-`` sudo update-alternatives install /usr/bin/java java /usr/lib/java/jdk1.8.0_71/bin/java 1 ``
+`` sudo update-alternatives --install /usr/bin/java java /usr/lib/java/jdk1.8.0_71/bin/java 1 ``
 
 `` sudo update-alternatives --config java ``
 select java want update
