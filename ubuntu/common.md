@@ -1,6 +1,6 @@
 
 ## Install Common Tools
-``sudo apt-get update && sudo apt-get install -qy vim tree history htop openjdk-7-jdk ``
+``sudo apt-get update && sudo apt-get install -qy vim tree htop openjdk-7-jdk ``
 
 ---
 ## Install oh-my-zsh
